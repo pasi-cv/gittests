@@ -5,6 +5,8 @@
 
 ~~Strikethrough~~ text.
 
+*Italics* text.
+
 # H1
 
 ## H2

@@ -1,5 +1,7 @@
-# gittests
-Git and Markdown tests
+# GIT and Markdown tests
+
+
+**Bold** text.
 
 # H1
 

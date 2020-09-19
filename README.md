@@ -3,7 +3,7 @@
 
 **Bold** text.
 
---Strikethrough-- text.
+~~Strikethrough~~ text.
 
 # H1
 

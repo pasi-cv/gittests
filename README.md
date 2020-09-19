@@ -29,4 +29,8 @@ Quote
 "quote example"
 ```
 
-(https://github.com)
+[Link to github.com](https://github.com)
+
+```
+github link to new tab don't work.
+```

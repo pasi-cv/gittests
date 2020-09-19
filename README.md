@@ -39,4 +39,4 @@ Go to [H1](#H1)
 
 ![Imagetest](img/imagetest.png "image test")
 
-![Videotest](https://github.com/pasi-cv/gittests/blob/master/videos/screenrecord.webm)
+![Videotest](https://raw.githubusercontent.com/pasi-cv/gittests/master/videos/screenrecord.webm)

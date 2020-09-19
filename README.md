@@ -23,11 +23,8 @@ print('Python Markdown!')
 
 ```
 
+Quote
 ```
 - Using backtick
 "quote example"
-```
-
-
-
 ```

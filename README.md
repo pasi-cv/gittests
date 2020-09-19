@@ -29,4 +29,4 @@ Quote
 "quote example"
 ```
 
-[Link to pasi-cv - gittests] (https://github.com/pasi-cv/gittests)
+[Link to pasi-cv - gittests](https://github.com/pasi-cv/gittests) New Tab

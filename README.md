@@ -39,4 +39,4 @@ Go to [H1](#H1)
 
 ![Imagetest](img/imagetest.png "image test")
 
-![Videotest](videos/screenrecord.webm)
+![Videotest](videos/screenrecord.webm "Video test")

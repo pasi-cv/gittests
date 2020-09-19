@@ -29,4 +29,4 @@ Quote
 "quote example"
 ```
 
-[Link to Github.com - gittests][](https://github.com)
+[Link to Github.com - gittests][(https://github.com)]

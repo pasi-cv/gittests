@@ -49,8 +49,8 @@ Video don't work.
 	* Sublist two
 3. Numbering list three
 
-- [x] Ready task
-- [ ] Unready task
+- [x] Finished task
+- [ ] Unfinished task
 	- [ ] Subtask 1
 	- [x] Subtask 2
 	- [ ] Subtask 3

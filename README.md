@@ -49,7 +49,7 @@ Video don't work.
 	* Sublist two
 3. Numbering list three
 
-r [x] Ready task
+- [x] Ready task
 - [ ] Unready task
 	- [ ] Subtask 1
 	- [x] Subtask 2

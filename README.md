@@ -57,7 +57,7 @@ Video don't work.
 	- [x] Subtask 2
 	- [ ] Subtask 3
 
-| Left      | Center    | Right     | Left       | Center     | Right      |
+|  Left     | Center    |  Right    |  Left      | Center     |  Right     |
 | :-------- | :-------: | --------: | :--------- | :--------: | ---------: |
 | Cell 1    | Cell 2    | Cell 3    | Cell 4     | Cell 5     | Cell 6     |
 | Cell 7    | Cell 8    | Cell 9    | Cell 10    | Cell 11    | Cell 12    |

@@ -41,7 +41,9 @@ Go to [H1](#H1)
 
 ![Videotest](videos/screenrecord.webm)
 
+```
 Video don't work.
+```
 
 1. Numbering list one
 2. Numbering list two
@@ -54,3 +56,8 @@ Video don't work.
 	- [ ] Subtask 1
 	- [x] Subtask 2
 	- [ ] Subtask 3
+
+| Left   | Center | Right  | Left    | Center  | Right   |
+| :----- | :----: | -----: | :------ | :-----: | ------: |
+| Cell 1 | Cell 2 | Cell 3 | Cell 4  | Cell 5  | Cell 6  |
+| Cell 7 | Cell 8 | Cell 9 | Cell 10 | Cell 11 | Cell 12 |
